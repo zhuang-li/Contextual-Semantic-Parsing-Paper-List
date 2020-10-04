@@ -20,6 +20,7 @@ Not all the datasets are released on their papers. For some datasets, you may ne
 - **Parsing natural language conversations using contextual cues.** (IJCAI 2019) Shashank Srivastava, Amos Azaria, and Tom M Mitchell. [[paper]](https://www.ijcai.org/Proceedings/2017/0571.pdf)
 - **Cosql: A conversational text-to-sql challenge towards cross-domain natural language interfaces to databases.** (EMNLP 2019) Tao Yu, Rui Zhang, He Yang Er, Suyi Li, Eric Xue, Bo Pang, Xi Victoria Lin, Yi Chern Tan, Tianze Shi, Zihan Li, et al. [[paper]](https://arxiv.org/pdf/1909.05378.pdf) [[data]](https://yale-lily.github.io/cosql)
 ## Methods
+There is a lot of work going on but without paper released. We will update this list once those work on contextual semantic parsing is published.
 ### Symbolic Approaches
 - **Learning context-dependent mappings from sentences to logical form.** (ACL 2019) Luke S Zettlemoyer and Michael Collins. [[paper]](https://www.aclweb.org/anthology/P09-1110.pdf)
 - **Parsing natural language conversations using contextual cues.** (IJCAI 2019) Shashank Srivastava, Amos Azaria, and Tom M Mitchell. [[paper]](https://www.ijcai.org/Proceedings/2017/0571.pdf)
@@ -31,5 +32,12 @@ Not all the datasets are released on their papers. For some datasets, you may ne
 - **A pointer network architecture for context-dependent semantic parsing.** (ALTA 2019) Xuanli He, Quan Hung Tran, and Gholamreza Haffari. [[paper]](https://www.aclweb.org/anthology/U19-1013.pdf)
 - **How far are we from effective context modeling? an exploratory study on semantic parsing in context.** (IJCAI 2020) Qian Liu, Bei Chen, Jiaqi Guo, Jian-Guang Lou, Bin Zhou, and Dongmei Zhang. [[paper]](https://www.ijcai.org/Proceedings/2020/0495.pdf) [[code]] (https://github.com/microsoft/ContextualSP/tree/master/semantic_parsing_in_context)
 - **From language to programs: Bridging reinforcement learning and maximum marginal likelihood.** (ACL 2017) Kelvin Guu, Panupong Pasupat, Evan Zheran Liu, and Percy Liang. [[paper]](https://arxiv.org/pdf/1704.07926.pdf) [[code]] (https://github.com/kelvinguu/lang2program)
-
-
+- **Context-dependent semantic parsing over temporally structured data.** (2019) Charles Chen and Razvan Bunescu. [[paper]](https://www.aclweb.org/anthology/N19-1360.pdf) [[code]](https://github.com/charleschen1015/SemanticParsing)
+### Neural-Symbolic Approaches
+- **How far are we from effective context modeling? an exploratory study on semantic parsing in context.** (IJCAI 2020) Qian Liu, Bei Chen, Jiaqi Guo, Jian-Guang Lou, Bin Zhou, and Dongmei Zhang. [[paper]](https://www.ijcai.org/Proceedings/2020/0495.pdf) [[code]] (https://github.com/microsoft/ContextualSP/tree/master/semantic_parsing_in_context)
+- **Multi-task learning for conversational question answering over a large-scale knowledge base.** (EMNLP 2019) Tao Shen, Xiubo Geng, Tao Qin, Daya Guo, Duyu Tang, Nan Duan, Guodong Long, and Daxin Jiang. [[paper]](https://www.aclweb.org/anthology/D19-1248.pdf) [[code]] (https://github.com/taoshen58/MaSP)
+- **Context-dependent semantic parsing over temporally structured data.** (2019) Charles Chen and Razvan Bunescu. [[paper]](https://www.aclweb.org/anthology/N19-1360.pdf) [[code]](https://github.com/charleschen1015/SemanticParsing)
+- **Search-based Neural Structured Learning for Sequential Question Answering.** (ACL 2017), Mohit Iyyer, Wen-tau Yih, and Ming-Wei Chan [[paper]](https://www.aclweb.org/anthology/P17-1167.pdf) [[code]](https://github.com/microsoft/DynSP)
+- **Knowledge-aware conversational semantic parsing over web tables.** (NLPCC 2019) Yibo Sun, Duyu Tang, Jingjing Xu, Nan Duan, Xiaocheng Feng, Bing Qin, Ting Liu, and Ming Zhou. [[paper]](https://arxiv.org/pdf/1809.04271.pdf)
+- **Dialog-to-action: Conversational question answering over a large-scale knowledge base.** (Neurips 2018) Daya Guo, Duyu Tang, Nan Duan, Ming Zhou, and Jian Yin. [[paper]](https://papers.nips.cc/paper/7558-dialog-to-action-conversational-question-answering-over-a-large-scale-knowledge-base.pdf) [[code]] (https://github.com/guoday/Dialog-to-Action)
+- **Coupling retrieval and meta-learning for context-dependent semantic parsing.** (ACL 2019) Daya Guo, Duyu Tang, Nan Duan, Ming Zhou, and Jian Yin. [[paper]](https://arxiv.org/pdf/1906.07108.pdf)
