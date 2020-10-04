@@ -1,5 +1,5 @@
 # Context Dependent Semantic Parsing: Awesome Paper List
-
+It is currently an emerging field. Welcome to contribute!
 ## Survey 
 
 ## Leaderboard
