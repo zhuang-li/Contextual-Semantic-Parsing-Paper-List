@@ -17,5 +17,7 @@ Not all the datasets are released on their papers. For some datasets, you may ne
 - **Complex sequential question answering: Towards learning to converse over linked question answer pairs with a knowledge graph.** (AAAI 2018) Amrita Saha, Vardaan Pahuja, Mitesh M Khapra, Karthik Sankaranarayanan, and Sarath Chandar. [[paper]](https://arxiv.org/pdf/1801.10314.pdf) [[data]](https://amritasaha1812.github.io/CSQA/)
 ### Interactive Datasets
 - **A new corpus and imitation learning framework for context-dependent semantic parsing.** (TACL 2014) Andreas Vlachos and Stephen Clark. [[paper]](https://www.aclweb.org/anthology/Q14-1042.pdf) [[data]](https://sites.google.com/site/andreasvlachos/resources)
+- **Parsing natural language conversations using contextual cues.** (IJCAI 2019) Shashank Srivastava, Amos Azaria, and Tom M Mitchell. [[paper]](https://www.ijcai.org/Proceedings/2017/0571.pdf)
+- **Cosql: A conversational text-to-sql challenge towards cross-domain natural language interfaces to databases.** (EMNLP 2019) Tao Yu, Rui Zhang, He Yang Er, Suyi Li, Eric Xue, Bo Pang, Xi Victoria Lin, Yi Chern Tan, Tianze Shi, Zihan Li, et al. [[paper]](https://arxiv.org/pdf/1909.05378.pdf) [[data]](https://yale-lily.github.io/cosql)
 ## Methods
 
