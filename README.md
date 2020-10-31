@@ -1,6 +1,5 @@
-# Context Dependent Semantic Parsing: Awesome Paper List
+# Context Dependent Semantic Parsing: A Survey
 It is currently an emerging field. Welcome to contribute!
-## Survey 
 
 ## Leaderboard
 - **SParC 1.0** [[url]](https://yale-lily.github.io/sparc)
