@@ -21,7 +21,7 @@ Not all the datasets are released on their papers. For some datasets, you may ne
 ## Methods
 There is a lot of work going on but without paper released. We will update this list once those work on contextual semantic parsing is published.
 ### Symbolic Approaches
-- **Learning context-dependent mappings from sentences to logical form.** (ACL 2019) Luke S Zettlemoyer and Michael Collins. [[paper]](https://www.aclweb.org/anthology/P09-1110.pdf)
+- **Learning context-dependent mappings from sentences to logical form.** (ACL 2009) Luke S Zettlemoyer and Michael Collins. [[paper]](https://www.aclweb.org/anthology/P09-1110.pdf)
 - **Parsing natural language conversations using contextual cues.** (IJCAI 2019) Shashank Srivastava, Amos Azaria, and Tom M Mitchell. [[paper]](https://www.ijcai.org/Proceedings/2017/0571.pdf)
 - **Simpler context-dependent logical forms via model projections.** (ACL 2016) Reginald Long, Panupong Pasupat, and Percy Liang. [[paper]](https://arxiv.org/pdf/1606.05378.pdf)
 ### Neural Approaches
