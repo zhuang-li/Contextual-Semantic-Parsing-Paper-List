@@ -1,6 +1,16 @@
 # Context Dependent Semantic Parsing: A Survey
 It is currently an emerging field. Welcome to contribute!
 
+If you find this survey useful, please cite:
+```
+@article{li2020context,
+  title={Context Dependent Semantic Parsing: A Survey},
+  author={Li, Zhuang and Qu, Lizhen and Haffari, Gholamreza},
+  journal={arXiv preprint arXiv:2011.00797},
+  year={2020}
+}
+```
+
 ## Leaderboard
 - **SParC 1.0** [[url]](https://yale-lily.github.io/sparc)
 - **CoSQL 1.0** [[url]](https://yale-lily.github.io/cosql)
