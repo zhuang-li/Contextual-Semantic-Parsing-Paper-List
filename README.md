@@ -1,5 +1,5 @@
 # Context Dependent Semantic Parsing: A Survey
-It is currently an emerging field. Welcome to contribute! And if you find this survey useful, please cite:
+It is currently an emerging field. Welcome to contribute! This survey has been accepted to COLING'2020. If you find this survey useful, please cite:
 ```
 @article{li2020context,
   title={Context Dependent Semantic Parsing: A Survey},
