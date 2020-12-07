@@ -1,4 +1,4 @@
-# Context Dependent Semantic Parsing: A Survey
+# Context Dependent Semantic Parsing: A Survey [[paper]](https://arxiv.org/abs/2011.00797)
 It is currently an emerging field. Welcome to contribute! This survey has been accepted to COLING'2020. If you find this survey useful, please cite:
 ```
 @article{li2020context,
@@ -47,3 +47,4 @@ There is a lot of work going on but without paper released. We will update this 
 - **Knowledge-aware conversational semantic parsing over web tables.** (NLPCC 2019) Yibo Sun, Duyu Tang, Jingjing Xu, Nan Duan, Xiaocheng Feng, Bing Qin, Ting Liu, and Ming Zhou. [[paper]](https://arxiv.org/pdf/1809.04271.pdf)
 - **Dialog-to-action: Conversational question answering over a large-scale knowledge base.** (Neurips 2018) Daya Guo, Duyu Tang, Nan Duan, Ming Zhou, and Jian Yin. [[paper]](https://papers.nips.cc/paper/7558-dialog-to-action-conversational-question-answering-over-a-large-scale-knowledge-base.pdf) [[code]](https://github.com/guoday/Dialog-to-Action)
 - **Coupling retrieval and meta-learning for context-dependent semantic parsing.** (ACL 2019) Daya Guo, Duyu Tang, Nan Duan, Ming Zhou, and Jian Yin. [[paper]](https://arxiv.org/pdf/1906.07108.pdf)
+- **IGSQL: Database Schema Interaction Graph Based Neural Model for Context-Dependent Text-to-SQL Generation** (EMNLP 2020) Yitao Cai, Xiaojun Wan [[paper]] (https://arxiv.org/abs/2011.05744)
